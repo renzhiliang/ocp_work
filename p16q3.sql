@@ -1,0 +1,3 @@
+BEGIN
+  DBMS_OUTPUT.PUT_LINE('My PL/SQL Block Works');
+END;
